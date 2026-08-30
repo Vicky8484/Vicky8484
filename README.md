@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Victory Okosun</h1>
-<h3 align="center">A wannabe frontend developer from Denmark</h3>
-
-<img src="[file:///C:/Users/victo/Downloads/Hi!%20I%E2%80%99m%20Victory%20Okosun%20Student%20at%20EK%20(1).webp](https://raw.githubusercontent.com/Vicky8484/Vicky8484/refs/heads/main/Hi!%20I%E2%80%99m%20Victory%20Okosun%20Student%20at%20EK.webp)" alt="My name">
+<p align="center"> <img src="./Hi%21%20I%E2%80%99m%20Victory%20Okosun%20Student%20at%20EK.webp" alt="Victory Okosun" width="80%"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky8484&label=Profile%20views&color=0e75b6&style=flat" alt="vicky8484" /> </p>
 
